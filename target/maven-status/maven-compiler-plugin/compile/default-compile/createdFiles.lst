@@ -1,0 +1,7 @@
+com\sravani\vehicles\config\AppInitializer.class
+com\sravani\vehicles\config\WebMvcConfig.class
+com\sravani\vehicles\config\AppConfig.class
+com\sravani\vehicles\service\VehicleService.class
+com\sravani\vehicles\model\Vehicle.class
+com\sravani\vehicles\web\rest\VehiclesController.class
+com\sravani\vehicles\web\rest\IndexController.class
